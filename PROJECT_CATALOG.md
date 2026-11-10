@@ -17,7 +17,7 @@ These entries are based on my project notes and CV. They are not represented as 
 | Project | Technical focus | Publication plan |
 |---|---|---|
 | Digital Twin & Predictive Maintenance of Pneumatic Actuation Systems | MATLAB, Simulink, Simscape, Python, degradation features, Random Forest | Rebuild a reproducible demo using synthetic/sanitised data; document simulated conditions and model evaluation |
-| Corporate Credit Analysis — Volkswagen Financial Services AG | Financial statement analysis, credit risk, Excel | Publish methodology, a non-confidential summary and a clean illustrative workbook; verify all public-source calculations |
+| [Corporate Credit Analysis — Volkswagen Financial Services AG](corporate-credit-analysis-vwfs/) | IFRS/HGB financial analysis, credit risk, capital, liquidity, funding, residual values, Excel | Project overview published; model exports and memo notes being prepared for public release |
 | Manufacturing Line Simulation & Capacity Optimisation | FlexSim/Simio, discrete-event simulation, capacity planning | Publish model logic, scenario design and results only if the model files can be shared |
 | Service-Level & Inventory Optimisation | anyLogistix, stochastic supply-chain modelling | Publish a recreated case using synthetic data unless original files are shareable |
 | EV Service Parts Inventory Analytics | Python, SQL, ABC/XYZ, inventory policy | Create a synthetic-data demonstration; do not publish Raptee.HV job cards, SKU costs or internal records |

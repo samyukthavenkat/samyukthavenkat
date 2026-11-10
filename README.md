@@ -58,8 +58,8 @@ I'm organising the code, documentation and reproducible analyses for the followi
 
 ## Let's connect
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: samyukthavenkatasamy@u.nus.edu
+- LinkedIn: www.linkedin.com/in/samyuktha-venkatasamy-867083223
+- Email: samyukthavenkatasamy@gmail.com
 
 ---
 

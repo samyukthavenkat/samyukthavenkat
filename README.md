@@ -14,6 +14,10 @@ I enjoy working at the intersection of engineering, data and business: turning o
 - Supply chain analytics, optimisation and forecasting
 - Corporate credit analysis and data-driven financial decision-making
 
+## Project portfolio
+
+See the [full project catalogue](PROJECT_CATALOG.md) for published repositories, work in progress and the publication roadmap. Use of the project catalogue does not imply that every listed project has a public code release.
+
 ## Featured projects
 
 | Project | Focus | Repository |
